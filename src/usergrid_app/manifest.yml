@@ -1,0 +1,4 @@
+---
+path: ROOT.war
+timeout: 180
+memory: 1024M
