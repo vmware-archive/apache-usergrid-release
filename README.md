@@ -1,3 +1,5 @@
+# apache-usergrid-release is no longer actively maintained by VMware.
+
 # Bosh Release + PCF Tile for Apache Usergrid
 
 This is a bosh release for the apache usergrid. The scripts provided can help create the bosh release and tile for Apache Usergrid.
